@@ -1,7 +1,7 @@
-# Tugas-3-Individu-PAM
+# PAM_TugasIndividu3
 
 ## ID
-Nama  : Yustaf Kusuma Abi Al Yasid [@Ardhito120140003](https://github.com/Ardhito120140003)
+Nama  : Yustaf Kusuma Abi Al Yasid [@yustafkusuma](https://github.com/yustafkusuma)
 NIM   : 120140178
 Kelas : Pengembangan Aplikasi Mobile RB
 
