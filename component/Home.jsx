@@ -19,7 +19,7 @@ export default class Home extends Component {
                     <View style={styles.textHeader}>
                         <Image source={require('../src/image/bar.png')} style={{ width: 30, height: 30, marginRight: 100 }} />
                         <Text style={{ color: 'white', marginTop: 40, fontSize: 30, fontWeight: 'bold' }}>
-                            Hiling.id
+                            Plane Scheduler
                         </Text>
                         <Image source={require('../src/image/person.png')} style={{ width: 30, height: 30, marginLeft: 100 }} />
                     </View>
@@ -27,7 +27,7 @@ export default class Home extends Component {
 
                 <View style={styles.footer}>
                     <Text style={styles.textFooter}>
-                        Ardhito Saputra - 120140003
+                        Tugas 3 PAM - Yustaf Kusuma Abi Al Yasid - 120140178
                     </Text>
                 </View>
                 <View style={styles.form}>
@@ -73,7 +73,7 @@ export default class Home extends Component {
                             }
                                 onPress={() => this.props.navigation.navigate('Result', this.state)}
                                 title="Cari"
-                                color={"darkorange"} />
+                                color={"#F9D949"} />
                         </View>
                     </View>
                 </View>
@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
         flex: 1
     },
     header: {
-        backgroundColor: 'dodgerblue',
+        backgroundColor: '#3C486B',
         minHeight: 450,
         borderBottomLeftRadius: 10,
         borderBottomRightRadius: 10,
