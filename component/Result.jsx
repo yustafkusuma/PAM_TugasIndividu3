@@ -65,10 +65,10 @@ export default class Result extends Component {
                             </TouchableOpacity>
                             <View>
                                 <Text style={{ color: 'white', marginTop: 40, fontSize: 30, fontWeight: 'bold', textAlign: 'center', marginHorizontal: 100 }}>
-                                    Hiling.id
+                                    Plane Scheduler
                                 </Text>
                                 <Text style={{ color: 'white', marginTop: 5, fontSize: 15, textAlign: 'center' }}>
-                                    Hasil Pencarian Penerbangan
+                                    Hasil Pencarian Jadwal Penerbangan
                                 </Text>
 
 
@@ -103,7 +103,7 @@ export default class Result extends Component {
                 <View style={styles.view3}>
                     <View style={styles.footer}>
                         <Text style={styles.textFooter}>
-                            Ardhito Saputra - 120140003
+                            Tugas 3 PAM - Yustaf Kusuma Abi Al Yasid - 120140178
                         </Text>
                     </View>
                 </View>
@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
         flex: 1
     },
     header: {
-        backgroundColor: 'dodgerblue',
+        backgroundColor: '#3C486B',
         minHeight: 160,
         borderBottomLeftRadius: 10,
         borderBottomRightRadius: 10
